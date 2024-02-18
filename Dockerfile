@@ -1,8 +1,8 @@
 FROM node:16.14-alpine
 
-WORKDIR /app
+WORKDIR /docker-test
 
-COPY package.json yarn.lock ./
+COPY package.json ./docker-test
 
 RUN yarn install
 
