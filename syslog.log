@@ -1,0 +1,1017 @@
+Feb 21 00:00:30 localhost systemd[1]: logrotate.service: Succeeded.
+Feb 21 00:00:30 localhost systemd[1]: Finished Rotate log files.
+Feb 21 00:00:30 localhost systemd[1]: man-db.service: Succeeded.
+Feb 21 00:00:30 localhost systemd[1]: Finished Daily man-db regeneration.
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 00:09:51 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 00:09:51 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 00:09:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 75639eb0-18ac-49d2-a763-0dbcdb064612
+Feb 21 00:17:01 localhost CRON[933140]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 00:36:00 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 00:36:00 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 00:36:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 65978801-cee7-4aa3-bc07-b57dad101635
+Feb 21 00:49:13 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 00:49:13 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 01:02:13 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 01:02:13 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 01:02:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 4ec3a229-2d0f-4b09-b631-a04ac6eb72a1
+Feb 21 01:17:01 localhost CRON[933160]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 01:28:00 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 01:28:00 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 01:28:00 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: c7d3a87c-2472-4bdb-b3b2-3bf997ff27a0
+Feb 21 01:45:05 localhost systemd[1]: Starting Daily apt download activities...
+Feb 21 01:45:05 localhost systemd[1]: Starting Update APT News...
+Feb 21 01:45:05 localhost systemd[1]: Starting Update the local ESM caches...
+Feb 21 01:45:06 localhost systemd[1]: apt-news.service: Succeeded.
+Feb 21 01:45:06 localhost systemd[1]: Finished Update APT News.
+Feb 21 01:45:07 localhost systemd[1]: esm-cache.service: Succeeded.
+Feb 21 01:45:07 localhost systemd[1]: Finished Update the local ESM caches.
+Feb 21 01:45:11 localhost dbus-daemon[471]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.844' (uid=0 pid=933913 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Feb 21 01:45:11 localhost systemd[1]: Starting PackageKit Daemon...
+Feb 21 01:45:11 localhost PackageKit: daemon start
+Feb 21 01:45:11 localhost dbus-daemon[471]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Feb 21 01:45:11 localhost systemd[1]: Started PackageKit Daemon.
+Feb 21 01:45:20 localhost systemd[1]: apt-daily.service: Succeeded.
+Feb 21 01:45:20 localhost systemd[1]: Finished Daily apt download activities.
+Feb 21 01:50:16 localhost PackageKit: daemon quit
+Feb 21 01:50:16 localhost systemd[1]: packagekit.service: Succeeded.
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 01:53:42 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 01:53:42 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 01:53:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: bc801567-9562-422a-8024-aff6db7a8a59
+Feb 21 02:02:30 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 02:02:30 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 02:17:01 localhost CRON[934021]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 02:23:01 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 02:23:01 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 02:23:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 02:23:01 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 02:23:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: d86e88c6-16f6-4c46-9fad-a8238e68622d
+Feb 21 02:48:18 localhost systemd[1]: Starting Ubuntu Pro Timer for running repeated jobs...
+Feb 21 02:48:19 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-68358f94-59ac-4ab3-a8ba-bfcaf1b3c4a3.scope.
+Feb 21 02:48:19 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-68358f94-59ac-4ab3-a8ba-bfcaf1b3c4a3.scope: Succeeded.
+Feb 21 02:48:19 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-4f4bebe5-6a58-4b30-bb02-19e712209e50.scope.
+Feb 21 02:48:19 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-4f4bebe5-6a58-4b30-bb02-19e712209e50.scope: Succeeded.
+Feb 21 02:48:19 localhost systemd[1]: ua-timer.service: Succeeded.
+Feb 21 02:48:19 localhost systemd[1]: Finished Ubuntu Pro Timer for running repeated jobs.
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 02:48:25 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 02:48:25 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 02:48:26 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 02:48:26 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 02:48:26 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: df013663-17e6-40ed-919d-74523628c931
+Feb 21 02:51:29 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 02:51:29 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 03:10:01 localhost CRON[934097]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+Feb 21 03:17:01 localhost CRON[934101]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 03:18:16 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 03:18:16 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 03:18:16 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: f76df534-7a6a-4bd5-bf8d-98c461375985
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 03:47:56 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 03:47:56 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 03:47:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 12ba9650-081a-4774-b4c1-34732ae1ad68
+Feb 21 03:51:23 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 03:51:23 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 04:15:28 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 04:15:28 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 04:15:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 5a7f19df-ad1c-405d-8257-e1efe9e0fc9e
+Feb 21 04:17:01 localhost CRON[934118]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 04:21:00 localhost snapd[492]: storehelpers.go:791: cannot refresh: snap has no updates available: "amazon-ssm-agent", "canonical-livepatch", "core", "core18", "core20", "core22", "lxd", "snapd"
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 04:44:37 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 04:44:37 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 04:44:37 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 5616ee65-8b38-4bef-b8df-628491093bf0
+Feb 21 04:47:05 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 04:47:05 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 05:13:32 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 05:13:32 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 05:13:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 8940e3af-1210-43fc-b00b-dbb170834d61
+Feb 21 05:17:01 localhost CRON[934137]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 05:41:11 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 05:41:11 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 05:41:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 5a9f75b9-9efb-469b-8cef-b85a40405308
+Feb 21 05:54:34 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 05:54:34 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 06:09:08 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 06:09:08 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 06:09:08 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 6cfa816a-1cf7-4c26-9447-29d3d219f912
+Feb 21 06:17:01 localhost CRON[934156]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 06:25:01 localhost CRON[934163]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Feb 21 06:32:01 localhost CRON[934233]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 06:34:41 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 06:34:41 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 06:34:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 69b8718e-398b-4c57-a421-b1ae64bb3da1
+Feb 21 06:37:36 localhost systemd[1]: Starting Daily apt upgrade and clean activities...
+Feb 21 06:37:41 localhost dbus-daemon[471]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.851' (uid=0 pid=934326 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Feb 21 06:37:41 localhost systemd[1]: Starting PackageKit Daemon...
+Feb 21 06:37:41 localhost PackageKit: daemon start
+Feb 21 06:37:41 localhost dbus-daemon[471]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Feb 21 06:37:41 localhost systemd[1]: Started PackageKit Daemon.
+Feb 21 06:37:45 localhost systemd[1]: apt-daily-upgrade.service: Succeeded.
+Feb 21 06:37:45 localhost systemd[1]: Finished Daily apt upgrade and clean activities.
+Feb 21 06:42:52 localhost PackageKit: daemon quit
+Feb 21 06:42:52 localhost systemd[1]: packagekit.service: Succeeded.
+Feb 21 06:54:11 localhost systemd[1]: Starting Refresh fwupd metadata and update motd...
+Feb 21 06:54:11 localhost dbus-daemon[471]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.854' (uid=112 pid=934446 comm="/usr/bin/fwupdmgr refresh " label="unconfined")
+Feb 21 06:54:11 localhost systemd[1]: Starting Firmware update daemon...
+Feb 21 06:54:12 localhost dbus-daemon[471]: [system] Successfully activated service 'org.freedesktop.fwupd'
+Feb 21 06:54:12 localhost systemd[1]: Started Firmware update daemon.
+Feb 21 06:54:12 localhost fwupd[934451]: 06:54:12:0339 FuPluginLinuxSleep   could not open /sys/power/mem_sleep: Error opening file /sys/power/mem_sleep: No such file or directory
+Feb 21 06:54:12 localhost systemd[1]: fwupd-refresh.service: Succeeded.
+Feb 21 06:54:12 localhost systemd[1]: Finished Refresh fwupd metadata and update motd.
+Feb 21 06:59:40 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 06:59:40 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 07:03:11 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 07:03:11 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 07:03:11 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 380d24cb-24be-49c6-ab1c-bf93aa7acbb0
+Feb 21 07:17:01 localhost CRON[934464]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 07:30:40 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 07:30:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 07:30:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 07:30:40 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 07:30:41 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 9b24df73-041a-4a7e-81c1-e223a34c6190
+Feb 21 07:39:49 localhost systemd[1]: Starting Certbot...
+Feb 21 07:39:50 localhost systemd[1]: certbot.service: Succeeded.
+Feb 21 07:39:50 localhost systemd[1]: Finished Certbot.
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 07:57:27 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 07:57:27 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 07:57:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 07:57:27 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 07:57:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: cfe675d0-a810-4622-9c90-409b20f046ef
+Feb 21 07:58:00 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 07:58:00 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 08:17:01 localhost CRON[934486]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 08:23:42 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 08:23:42 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 08:23:43 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 08:23:43 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 5a36f44a-dd36-4472-afe1-91075d7b5601
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 08:52:04 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 08:52:04 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 08:52:04 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: d9c20f89-ba99-41e6-be2f-0343fcd1e648
+Feb 21 08:54:04 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 08:54:04 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 08:54:13 localhost systemd[1]: fwupd.service: Succeeded.
+Feb 21 08:59:11 localhost systemd[1]: Starting Message of the Day...
+Feb 21 09:00:13 localhost 50-motd-news[934529]:  * Ubuntu Pro delivers the most comprehensive open source security and
+Feb 21 09:00:13 localhost 50-motd-news[934529]:    compliance features.
+Feb 21 09:00:13 localhost 50-motd-news[934529]:    https://ubuntu.com/aws/pro
+Feb 21 09:00:13 localhost systemd[1]: motd-news.service: Succeeded.
+Feb 21 09:00:13 localhost systemd[1]: Finished Message of the Day.
+Feb 21 09:17:01 localhost CRON[934585]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 09:21:45 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 09:21:45 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 09:21:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 2d649dbc-ef5d-4d76-a465-a6a82d295b02
+Feb 21 09:26:00 localhost systemd[1]: Starting Ubuntu Pro Timer for running repeated jobs...
+Feb 21 09:26:01 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-b4d0667a-f296-4526-b972-62926e1ed522.scope.
+Feb 21 09:26:01 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-b4d0667a-f296-4526-b972-62926e1ed522.scope: Succeeded.
+Feb 21 09:26:01 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-febfdaed-e1a0-45b1-8fa7-998e7e6e47c5.scope.
+Feb 21 09:26:01 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-febfdaed-e1a0-45b1-8fa7-998e7e6e47c5.scope: Succeeded.
+Feb 21 09:26:02 localhost systemd[1]: ua-timer.service: Succeeded.
+Feb 21 09:26:02 localhost systemd[1]: Finished Ubuntu Pro Timer for running repeated jobs.
+Feb 21 09:46:48 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 09:46:48 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 09:48:02 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 09:48:02 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 09:48:02 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 8751fedc-9e4d-490c-ba5f-9522d0bb6139
+Feb 21 10:17:01 localhost CRON[934686]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 10:17:48 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 10:17:48 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 10:17:48 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 0eadeed7-67b1-4020-be1d-9af8e15ea8ad
+Feb 21 10:36:24 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 10:36:24 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 10:45:56 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 10:45:56 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 10:45:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 42d6e1ae-ed6e-4c28-b9a0-be525b24d4e4
+Feb 21 10:56:01 localhost snapd[492]: storehelpers.go:791: cannot refresh: snap has no updates available: "amazon-ssm-agent", "canonical-livepatch", "core", "core18", "core20", "core22", "lxd", "snapd"
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 11:13:56 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 11:13:56 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 11:13:56 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 8954e7fe-4e85-4844-82ee-060d64745683
+Feb 21 11:17:01 localhost CRON[934767]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 11:28:42 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 11:28:42 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 11:43:49 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 11:43:49 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 11:43:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 8856eec4-499e-4532-a514-9e705089393e
+Feb 21 12:00:01 localhost CRON[935037]: (root) CMD (test -x /usr/bin/certbot -a \! -d /run/systemd/system && perl -e 'sleep int(rand(43200))' && certbot -q renew)
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 12:10:17 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 12:10:17 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 12:10:17 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 23137c4e-82c3-41cf-ad10-b48c3bde32e2
+Feb 21 12:17:01 localhost CRON[935184]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 12:38:40 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 12:38:40 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 12:39:28 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 12:39:28 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 12:39:28 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: dffbc3c0-a7dc-4acd-bac3-ddf508b711c4
+Feb 21 12:59:11 localhost systemd[1]: Starting Certbot...
+Feb 21 12:59:12 localhost systemd[1]: certbot.service: Succeeded.
+Feb 21 12:59:12 localhost systemd[1]: Finished Certbot.
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 13:07:54 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 13:07:54 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 13:07:54 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 10babc96-e501-4fe2-8b5b-bf4f79e1ae9b
+Feb 21 13:17:01 localhost CRON[935504]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 13:26:01 localhost snapd[492]: storehelpers.go:791: cannot refresh: snap has no updates available: "amazon-ssm-agent", "canonical-livepatch", "core", "core18", "core20", "core22", "lxd", "snapd"
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 13:37:32 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 13:37:32 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 13:37:32 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 05bb9459-29b0-4ace-b5a3-7b44624d0844
+Feb 21 13:50:39 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 13:50:39 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 14:07:22 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 14:07:22 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 14:07:22 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 3d430a6d-c5fe-4d2e-857f-b10df57fa5fc
+Feb 21 14:17:01 localhost CRON[935744]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 14:33:44 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 14:33:44 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 14:33:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 14:33:44 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 14:33:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 240175a1-0c0b-47db-a287-e8471dba34bd
+Feb 21 14:54:33 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 14:54:33 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 15:00:24 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 15:00:24 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 15:00:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: d077a4da-0af3-4cf3-ab3f-1571cad882a6
+Feb 21 15:17:01 localhost CRON[936323]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 15:25:39 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 15:25:39 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 15:25:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 00912696-371d-4b3b-96ed-a971a7073f3c
+Feb 21 15:39:45 localhost systemd[1]: Starting Message of the Day...
+Feb 21 15:39:55 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 15:39:55 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 15:40:07 localhost 50-motd-news[936556]:  * Ubuntu Pro delivers the most comprehensive open source security and
+Feb 21 15:40:07 localhost 50-motd-news[936556]:    compliance features.
+Feb 21 15:40:07 localhost 50-motd-news[936556]:    https://ubuntu.com/aws/pro
+Feb 21 15:40:07 localhost systemd[1]: motd-news.service: Succeeded.
+Feb 21 15:40:07 localhost systemd[1]: Finished Message of the Day.
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 15:53:39 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 15:53:39 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 15:53:39 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: c4c6c715-7e1d-48c8-94e0-cae3542b2069
+Feb 21 16:02:43 localhost systemd[1]: Starting Ubuntu Pro Timer for running repeated jobs...
+Feb 21 16:02:44 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-c27c6ecf-0a1d-4534-b1b4-ba39ef8c4c6c.scope.
+Feb 21 16:02:44 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-c27c6ecf-0a1d-4534-b1b4-ba39ef8c4c6c.scope: Succeeded.
+Feb 21 16:02:44 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-e7228548-dd0a-44d6-b67f-6622ca0566b0.scope.
+Feb 21 16:02:44 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-e7228548-dd0a-44d6-b67f-6622ca0566b0.scope: Succeeded.
+Feb 21 16:02:44 localhost systemd[1]: ua-timer.service: Succeeded.
+Feb 21 16:02:44 localhost systemd[1]: Finished Ubuntu Pro Timer for running repeated jobs.
+Feb 21 16:06:03 localhost systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 21 16:06:03 localhost systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 21 16:06:03 localhost systemd[1]: Finished Cleanup of Temporary Directories.
+Feb 21 16:17:01 localhost CRON[937120]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 16:19:13 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 16:19:13 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 16:19:13 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: deb98df1-7f58-476d-9ec1-67fcfceae290
+Feb 21 16:34:40 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 16:34:40 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 16:44:38 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 16:44:38 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 16:44:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: f62c719a-7da4-44e1-8c29-510ed5cccb10
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 17:11:58 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 17:11:58 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 17:11:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 343db839-d345-444d-808a-7fc2af41b7de
+Feb 21 17:17:01 localhost CRON[937317]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 17:39:49 localhost systemd[1]: Starting Daily apt download activities...
+Feb 21 17:39:50 localhost systemd[1]: apt-daily.service: Succeeded.
+Feb 21 17:39:50 localhost systemd[1]: Finished Daily apt download activities.
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 17:40:40 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 17:40:40 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 17:40:40 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: de7a0c42-0791-4a7a-8d37-680ccfd4ec09
+Feb 21 17:42:13 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 17:42:13 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 18:10:33 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 18:10:33 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 18:10:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: c0f35472-b01f-4a7e-92d7-6db6c49f5fcf
+Feb 21 18:17:01 localhost CRON[938274]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 18:36:11 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 18:36:11 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 18:39:51 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 18:39:51 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 18:39:51 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 2df843e2-3ad4-4d8f-9f1e-9ca2c0fdd3be
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 19:06:07 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 19:06:07 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 19:06:07 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 9464537d-a712-4969-8285-76c376404a1b
+Feb 21 19:17:01 localhost CRON[939970]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 19:32:38 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 19:32:38 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 19:32:38 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: c54297d7-90f6-4ffe-91bf-d69ce4f6ab13
+Feb 21 19:36:32 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 19:36:32 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 19:45:49 localhost systemd[1]: Starting Refresh fwupd metadata and update motd...
+Feb 21 19:45:49 localhost dbus-daemon[471]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.860' (uid=112 pid=940203 comm="/usr/bin/fwupdmgr refresh " label="unconfined")
+Feb 21 19:45:49 localhost systemd[1]: Starting Firmware update daemon...
+Feb 21 19:45:50 localhost dbus-daemon[471]: [system] Successfully activated service 'org.freedesktop.fwupd'
+Feb 21 19:45:50 localhost systemd[1]: Started Firmware update daemon.
+Feb 21 19:45:50 localhost fwupd[940208]: 19:45:50:0191 FuPluginLinuxSleep   could not open /sys/power/mem_sleep: Error opening file /sys/power/mem_sleep: No such file or directory
+Feb 21 19:45:50 localhost systemd[1]: fwupd-refresh.service: Succeeded.
+Feb 21 19:45:50 localhost systemd[1]: Finished Refresh fwupd metadata and update motd.
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 19:57:49 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 19:57:49 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 19:57:49 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: b0202d63-441c-4e78-bda2-7311c8b031da
+Feb 21 20:17:01 localhost CRON[940676]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 20:23:19 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 20:23:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 20:23:20 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 20:23:19 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 20:23:20 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 6df48a6f-4b58-4fe3-87c8-784aa90a9658
+Feb 21 20:32:36 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 20:32:36 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 20:48:19 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 20:48:19 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 20:48:20 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 20:48:19 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 20:48:20 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 9f6787a4-4bfa-4630-ba46-467c57dbcfca
+Feb 21 20:57:47 localhost systemd[1]: Starting Daily apt download activities...
+Feb 21 20:57:48 localhost systemd[1]: apt-daily.service: Succeeded.
+Feb 21 20:57:48 localhost systemd[1]: Finished Daily apt download activities.
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 21:13:58 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 21:13:58 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 21:13:58 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 3743202e-ba81-4962-bce2-beb1327fd811
+Feb 21 21:17:01 localhost CRON[940948]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 21:31:04 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 21:31:04 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 21:43:45 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 21:43:45 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 21:43:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 3cf1cb2e-4c50-477c-b195-47bec5b48f7d
+Feb 21 21:45:50 localhost systemd[1]: fwupd.service: Succeeded.
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 22:12:23 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 22:12:23 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 22:12:23 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: fd9d5dea-d90a-4426-95af-7f96bf8197e8
+Feb 21 22:17:01 localhost CRON[941005]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 22:26:00 localhost snapd[492]: storehelpers.go:791: cannot refresh: snap has no updates available: "amazon-ssm-agent", "canonical-livepatch", "core", "core18", "core20", "core22", "lxd", "snapd"
+Feb 21 22:33:05 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 22:33:05 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 22:39:33 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 22:39:33 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 22:39:33 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 9b9ab4c1-199b-499e-93b9-892e233ee70f
+Feb 21 22:47:49 localhost systemd[1]: Starting Ubuntu Pro Timer for running repeated jobs...
+Feb 21 22:47:50 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-41e70ceb-faab-4978-a916-a65dcd44bd0f.scope.
+Feb 21 22:47:50 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-41e70ceb-faab-4978-a916-a65dcd44bd0f.scope: Succeeded.
+Feb 21 22:47:50 localhost systemd[1]: Started snap.canonical-livepatch.canonical-livepatch-7f7459de-2c48-49cd-843d-0501d9143d5b.scope.
+Feb 21 22:47:50 localhost systemd[1]: snap.canonical-livepatch.canonical-livepatch-7f7459de-2c48-49cd-843d-0501d9143d5b.scope: Succeeded.
+Feb 21 22:47:50 localhost systemd[1]: ua-timer.service: Succeeded.
+Feb 21 22:47:50 localhost systemd[1]: Finished Ubuntu Pro Timer for running repeated jobs.
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 23:05:24 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 23:05:24 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 23:05:24 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: 796d8301-82df-4a18-b287-979b4e73920f
+Feb 21 23:17:01 localhost CRON[941323]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 23:34:45 WARN EC2RoleProvider Failed to connect to Systems Manager with instance profile role credentials. Err: retrieved credentials failed to report to ssm. Error: EC2RoleRequestError: no EC2 instance role found
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: caused by: EC2MetadataError: failed to make EC2Metadata request
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <?xml version="1.0" encoding="iso-8859-1"?>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <head>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <title>404 - Not Found</title>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </head>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  <body>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:   <h1>404 - Not Found</h1>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]:  </body>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: </html>
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 404, request id:
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: 2024-02-21 23:34:45 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 284361145409
+Feb 21 23:34:45 localhost amazon-ssm-agent.amazon-ssm-agent[486]: #011status code: 400, request id: ef739978-6ef8-408d-a490-259b46efaaca
+Feb 21 23:43:13 localhost canonical-livepatch.canonical-livepatchd[719973]: Client information is recent, not refreshing.
+Feb 21 23:43:13 localhost canonical-livepatch.canonical-livepatchd[719973]: module "livepatch_Ubuntu_5_15_0_1051_56_aws_100" already inserted
+Feb 22 00:00:00 localhost systemd[1]: Starting Rotate log files...
+Feb 22 00:00:00 localhost systemd[1]: Starting Daily man-db regeneration...
